@@ -6,3 +6,6 @@
 
 • Drag & Drop
 • De4dot.
+
+# Credits
+* @FinGu
