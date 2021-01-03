@@ -9,7 +9,7 @@
 
 # Before
 
-![alt text](https://github.com/CursedLand/FinGu-Cfex-Cleaner/Bef.PNG)
+![alt text](https://github.com/CursedLand/FinGu-Cfex-Cleaner/blob/main/Bef.PNG)
 
 # After
 
