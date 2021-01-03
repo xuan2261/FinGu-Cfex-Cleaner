@@ -16,4 +16,5 @@
 ![alt text](https://github.com/CursedLand/FinGu-Cfex-Cleaner/blob/main/Aft.PNG)
 
 # Credits
-* @FinGu
+* @FinGu - Cfex Mutations
+* @0xd4d - Dnlib
