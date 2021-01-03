@@ -7,5 +7,13 @@
 • Drag & Drop
 • De4dot.
 
+# Before
+
+![alt text](https://github.com/CursedLand/FinGu-Cfex-Cleaner/Bef.PNG)
+
+# After
+
+![alt text](https://github.com/CursedLand/FinGu-Cfex-Cleaner/Aft.PNG)
+
 # Credits
 * @FinGu
